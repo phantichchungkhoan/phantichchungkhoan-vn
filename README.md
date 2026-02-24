@@ -25,7 +25,7 @@
 * TikTok: https://www.tiktok.com/@phantichchungkhoan_vn
 * Reddit: https://www.reddit.com/r/PhanTichChungKhoanVN
 * Threads: https://www.threads.com/@phantichchungkhoan
-* Instagram: https://www.instagram.com/@phantichchungkhoan
+* Instagram: https://www.instagram.com/phantichchungkhoan
 * Facebook: https://www.facebook.com/PhanTichChungKhoanViet
 
 ---
