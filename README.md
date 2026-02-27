@@ -1,6 +1,6 @@
 # Phân Tích Chứng Khoán Việt Nam
 
-**Phân tích chứng khoán chuyên sâu theo hướng đầu tư giá trị và tăng trưởng bền vững cho nhà đầu tư Việt Nam.**
+**Phân tích và định giá cổ phiếu Việt Nam theo tư duy đầu tư giá trị và tăng trưởng bền vững.**
 
 Đây là dự án xây dựng hệ sinh thái kiến thức đầu tư tập trung vào cổ phiếu Việt Nam, VN-Index và phân tích doanh nghiệp niêm yết bằng phương pháp thực tiễn, kỷ luật và dài hạn.
 
@@ -8,7 +8,7 @@
 
 ## 📊 Nội dung trọng tâm
 
-* Phân tích cổ phiếu Việt Nam theo Value Investing & Growth Investing
+* Phân tích cổ phiếu Việt Nam theo tư duy đầu tư giá trị và tăng trưởng dài hạn
 * Bóc tách báo cáo tài chính doanh nghiệp
 * Phân tích ngành và chu kỳ kinh doanh
 * Cập nhật vĩ mô ảnh hưởng tới thị trường chứng khoán
@@ -19,7 +19,7 @@
 
 ## 🌐 Hệ sinh thái chính thức
 
-* Website: https://phantichchungkhoan.substack.com
+* Website: https://phantichchungkhoan.vn
 * Telegram: https://t.me/phantichchungkhoan_vn
 * YouTube: https://www.youtube.com/@phantichchungkhoanvn
 * TikTok: https://www.tiktok.com/@phantichchungkhoan_vn
@@ -32,7 +32,7 @@
 
 ## 🎯 Định hướng
 
-Xây dựng nguồn kiến thức đầu tư chứng khoán bài bản mang tính thực tiễn, giúp nhà đầu tư tại Việt Nam nâng cao năng lực phân tích và ra quyết định dài hạn.
+Xây dựng nguồn kiến thức đầu tư chứng khoán bài bản mang tính thực tiễn, giúp nhà đầu tư tại Việt Nam nâng cao năng lực phân tích, định giá và ra quyết định đầu tư cổ phiếu dài hạn.
 
 ---
 
